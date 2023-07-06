@@ -1,0 +1,1 @@
+# for_Atlas_28_stend_photoresistor_serial
